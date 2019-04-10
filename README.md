@@ -1,3 +1,8 @@
+UNMAINTAINED
+============
+
+This repo is no longer maintained. You should fork it if you wish to make contributions.
+
 phantom_omni
 ============
 
